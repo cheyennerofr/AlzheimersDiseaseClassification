@@ -1,2 +1,2 @@
 # AlzheimersDiseaseClassification
-CNN trained to classify MRIs between patients from the ADNI dataset.
+CNN trained to classify patients's MRIs from the ADNI dataset.
